@@ -41,7 +41,6 @@ export default {
       default: 75,
     },
     imgPath: {
-      default: require("~/assets/img/P_20200303_224951.jpg"),
     },
   },
 };

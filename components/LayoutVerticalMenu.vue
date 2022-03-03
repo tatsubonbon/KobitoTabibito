@@ -38,7 +38,6 @@ export default {
       default: "",
     },
     imgPath: {
-      default: require("~/assets/img/P_20200302_035129.jpg"),
     },
     imgWidth: {
       type: String,
