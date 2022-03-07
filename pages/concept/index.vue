@@ -10,7 +10,7 @@
     />
     <base-heading>小人旅人ブログのコンセプト</base-heading>
     <div class="container">
-      <div class="row">
+      <div class="col-md-12">
         <p>
           小人旅人ブログはブログ管理者が行ったことのある旅行先を紹介するブログです。<br />
           写真3枚、文字数500文字という制約の中で旅行先を紹介します。これが私の制約と誓約です。<br>
@@ -20,7 +20,7 @@
     </div>
     <base-heading>ブログ管理者について</base-heading>
     <div class="container">
-      <div class="row">
+      <div class="col-md-12">
         <p>
           小人旅人ブログ管理者のTKです。現在社会人2年目です。IT系で働いているので勉強がてら自分でブログを作ってみました。初めてなのでうまくはできていません、、。大目に見てください。
           <br>
